@@ -14,3 +14,7 @@ MAKE SURE YOU HAVE ARCH ALREADY INSTALLED HOW TO MAKE SURE:
 1.Go to your terminal and type: sudo pacman -S fastfetch
 2. type in your terminal: fastfetch
 If you are using arch it will show you the arch Linux ASCII art.
+# warning
+!DO NOT INSTALL ON ACTUAL HARDWARE NOTHINGLINUX IS EXPERIMENTAL SOFTWARE AND NOTFOR USE
+ON REAL HARDWARE!
+Thank you for your cooperation
